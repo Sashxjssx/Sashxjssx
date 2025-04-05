@@ -2,18 +2,18 @@
 - 🥋 Bem-vindo ao meu Perfil do GitHub
 - 😜 Programador, Gamer, Designer e Atleta
 
-<br>
+<img height="20" />
 
 ## 🧑‍💻 Perfil Profissional
 - ⚡ Desenvolvedor Full-Stack
 - ⚡ Fluência na Língua Inglesa
 
-<br>
+<img height="20" />
 
 ## 🌱 Meus Projetos
 - 📎 <a href="https://github.com/RafaMatesco/NinjaDevs">API do 1° Semestre de ADS</a> `EM PROGRESSO`
 
-<br>
+<img height="20" />
 
 ## 🤖 Linguagens & Frameworks
 <div align="left";>
@@ -32,11 +32,10 @@
   <img width="5" />
 </div>
 
-<br>
+<img height="20" />
 
 ## 📈 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sashxjssx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
 </div>
