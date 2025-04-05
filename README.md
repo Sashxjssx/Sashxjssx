@@ -11,7 +11,6 @@
 
 ## 🤖 Linguagens e Frameworks
 <div align="left";>
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="typescript logo"  />
