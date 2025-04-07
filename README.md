@@ -2,8 +2,10 @@
 - 🥋 Bem-vindo ao meu Perfil do GitHub
 - 😜 Programador, Gamer, Designer e Atleta
 
+
 # 🌱 Meus Projetos
 - 📎 <a href="https://github.com/RafaMatesco/NinjaDevs">API do 1° Semestre de ADS</a> `EM PROGRESSO`
+
 
 # 🤖 Linguagens e Frameworks
 <div align="left";>
@@ -23,7 +25,8 @@
   <img width="5" />
 </div>
 
+
 # 📈 Minhas Estatísticas
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&max-width=100%&border-color=title&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&border=5&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&max-width=100%&border-color=title&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&border=5&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
