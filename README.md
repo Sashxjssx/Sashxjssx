@@ -28,6 +28,6 @@
 
 # 📈 Minhas Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&max-width=100%&border-color=title&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&border=5&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashxjssx&hide_title=false&hide_rank=false&show_icons=true&max-width=100%&border-color=title&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&border=5&hide_border=false&rank_icon=github&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sashxjssx&locale=en&hide_title=false&layout=donut&max-width=100%&langs_count=5&theme=transparent&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
