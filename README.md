@@ -4,7 +4,7 @@
 
 
 # 🌱 Meus Projetos
-- 📎 <a href="https://github.com/RafaMatesco/NinjaDevs">API do 1° Semestre de ADS</a> `EM PROGRESSO`
+- 📎 <a href="https://github.com/NinjaDevs-API/NinjaDevs">API do 1° Semestre de ADS</a> `EM PROGRESSO`
 
 
 # 🤖 Linguagens e Frameworks
